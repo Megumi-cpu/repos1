@@ -16,3 +16,16 @@ class VariableEstadistica:
 
 
 #ola
+
+
+
+
+
+
+dddddddddddddddddddddddddddd
+
+
+ooo
+
+
+
