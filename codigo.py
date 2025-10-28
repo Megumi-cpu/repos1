@@ -13,3 +13,6 @@ class VariableEstadistica:
 
     def mostrar_datos(self, n=10):
         print(self.datos[:n])
+
+
+#ola
